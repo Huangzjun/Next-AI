@@ -18,9 +18,9 @@ LangChain is a framework for developing applications powered by language models.
 - **Data-aware**: connect a language model to other sources of data.
 - **Agentic**: allow a language model to interact with its environment.
 
-![image-20240915073755347](/Users/zijunhuang/Library/Application Support/typora-user-images/image-20240915073755347.png)
+![image-20240915073755347](https://github.com/Huangzjun/img/blob/main/image-20240915073755347.png)
 
-![image-20240915080126800](/Users/zijunhuang/Library/Application Support/typora-user-images/image-20240915080126800.png)
+![image-20240915080126800](https://github.com/Huangzjun/img/blob/main/image-20240915080126800.png)
 
 ### 1.3 Node.js and Express.js
 
@@ -36,7 +36,7 @@ https://expressjs.com/
 
 ## 二、Project Introduction
 
-![image-20240915081222373](/Users/zijunhuang/Library/Application Support/typora-user-images/image-20240915081222373.png)
+![image-20240915081222373](https://github.com/Huangzjun/img/blob/main/image-20240915081222373.png)
 
 **Demo Video**
 
@@ -58,7 +58,7 @@ youtobe：
 
 **High level Project Diagram**
 
-![image-20240915082859492](https://github.com/Huangzjun/img/blob/main/image-20240915073755347.png)
+![image-20240915082859492](https://github.com/Huangzjun/img/blob/main/image-20240915082859492.png)
 
 This project is a full-stack web application built using the following technologies:
 
