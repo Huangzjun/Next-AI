@@ -1,4 +1,4 @@
-# Next-AI
+# Next-AI : Web Based Q&A AI Agent for PDF Document Queries
 
 ## 一、Related knowledge
 
