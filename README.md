@@ -20,6 +20,10 @@ Demo Video： https://youtu.be/9QPuPGjVPD0
 
 * users can hear the answers in speech
 
+## Project Architecture
+
+https://github.com/Huangzjun/Next-AI/blob/main/doc/Project%20architecture.md
+
 ## Build Instructions
 
 Follow these steps to set up and run the project:
