@@ -4,11 +4,11 @@
 
 **Next-AI** is a full-stack web application that allows users to upload PDF documents and ask questions about their content, receiving intelligent answers in real-time. The system supports both text-based and voice-based queries, offering spoken responses as well. Built with **React** on the frontend and **Node.js with Express** on the backend, it integrates **OpenAI API** for advanced natural language processing. The application delivers an interactive, speech-enabled experience for seamless document querying.
 
-![image-20240915081222373](https://github.com/Huangzjun/img/blob/main/image-20240915081222373.png)
+![image-20240915081222373](https://github.com/Huangzjun/Next-AI/blob/main/img/image-20240915081222373.png)
 
 Demo Video： https://youtu.be/9QPuPGjVPD0
 
-### features
+## features
 
 * users can upload a PDF
 
@@ -20,7 +20,7 @@ Demo Video： https://youtu.be/9QPuPGjVPD0
 
 * users can hear the answers in speech
 
-### Build Instructions
+## Build Instructions
 
 Follow these steps to set up and run the project:
 

@@ -18,9 +18,9 @@ LangChain is a framework for developing applications powered by language models.
 - **Data-aware**: connect a language model to other sources of data.
 - **Agentic**: allow a language model to interact with its environment.
 
-![image-20240915073755347](https://github.com/Huangzjun/img/blob/main/image-20240915073755347.png)
+![image-20240915073755347](https://github.com/Huangzjun/Next-AI/blob/main/img/image-20240915073755347.png)
 
-![image-20240915080126800](https://github.com/Huangzjun/img/blob/main/image-20240915080126800.png)
+![image-20240915080126800](https://github.com/Huangzjun/Next-AI/blob/main/img/image-20240915080126800.png)
 
 #### 1.3 Node.js and Express.js
 
@@ -38,7 +38,7 @@ https://expressjs.com/
 
 #### 2.1 High level Project Diagram
 
-![image-20240915082859492](https://github.com/Huangzjun/img/blob/main/image-20240915082859492.png)
+![image-20240915082859492](https://github.com/Huangzjun/Next-AI/blob/main/img/image-20240915082859492.png)
 
 This project is a full-stack web application built using the following technologies:
 
@@ -106,5 +106,4 @@ This project is a full-stack web application built using the following technolog
 ├── reportWebVitals.js      # For measuring app performance (optional)
 └── setupTests.js           # Setup file for testing with Jest
 ```
-
 
